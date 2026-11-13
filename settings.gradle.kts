@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "android-compose-starter"
+include(":app")
